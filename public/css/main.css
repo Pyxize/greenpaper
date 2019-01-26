@@ -655,10 +655,12 @@ nav li {
         flex-direction: row;
         height: auto;
         width: 100%;
-
     }
     .resp-greenpeace{
         display: none;
+    }
+    .title{
+
     }
 }
 

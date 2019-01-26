@@ -28,7 +28,7 @@
     <div class="relative">
         <nav class="h23vh">
             <div class="nav-wrapper w70 marg-a pad-20">
-                <a href="/" class="left marg-r30">
+                <a href="{{url('index')}}" class="left marg-r30">
                     <svg class="logo" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                          viewBox="0 0 500 566.5" style="enable-background:new 0 0 500 566.5;" xml:space="preserve">
 <style type="text/css">
