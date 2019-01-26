@@ -29,7 +29,34 @@
         <nav class="h23vh">
             <div class="nav-wrapper w70 marg-a pad-20">
                 <a href="/" class="left marg-r30">
-                    <img class="logo" src="{{asset('img/paper_logo.png')}}" alt="papergreen">
+                    <svg class="logo" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                         viewBox="0 0 500 566.5" style="enable-background:new 0 0 500 566.5;" xml:space="preserve">
+<style type="text/css">
+    .st0{fill:#21C279;}
+    .st1{fill:#2AF598;}
+    .st2{fill:#25DB89;}
+    .st3{fill:none;stroke:#000000;stroke-miterlimit:10;}
+</style>
+                        <title>paper_logo</title>
+                        <polygon class="st0" points="500,141.7 428,182.7 428,257.7 500,215.7 "/>
+                        <polygon class="st1" points="249.5,84 428,182.7 495.5,143 249.5,0 0,145.4 0.5,423 250.5,566 500.5,422 500.5,344 322.5,240
+	250.5,280 250.5,364 317.5,323 425.5,385 250.5,480 82.5,384 82.5,184 "/>
+                        <polygon class="st2" points="250,566.5 250,480.5 500,344.5 500,422.5 "/>
+                        <path class="st3" d="M500,344.5"/>
+                        <polygon class="st2" points="250,364.5 250,280.5 317,323.5 "/>
+                        <polygon class="st2" points="0,145.4 249.5,0 500,141.7 428,182.7 250.5,85 82.5,184 "/>
+</svg>
+
+                    <title>paper_logo</title>
+                        <polygon class="st0" points="500,141.7 428,182.7 428,257.7 500,215.7 "/>
+                        <polygon class="st1" points="249.5,84 428,182.7 495.5,143 249.5,0 0,145.4 0.5,423 250.5,566 500.5,422 500.5,344 322.5,240
+	250.5,280 250.5,364 317.5,323 425.5,385 250.5,480 82.5,384 82.5,184 "/>
+                        <polygon class="st2" points="250,566.5 250,480.5 500,344.5 500,422.5 "/>
+                        <path class="st3" d="M500,344.5"/>
+                        <polygon class="st2" points="250,364.5 250,280.5 317,323.5 "/>
+                        <polygon class="st2" points="0,145.4 249.5,0 500,141.7 428,182.7 250.5,85 82.5,184 "/>
+</svg>
+
                 </a>
                 <div class="pad-20">
                     <ul id="nav-mobile" class="left hide-on-med-and-down">

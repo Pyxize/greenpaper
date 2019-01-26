@@ -19,7 +19,7 @@
     <nav class="h23vh">
         <div class="flex flex-c-c flex-a-cnav-wrapper w70 marg-a pad-20">
             <a href="{{url('index')}}" class="left marg-r30">
-                <img class="logo" src="{{asset('img/paper_logo.png')}}" alt="papergreen">
+                <img class="logo" src="{{asset('img/paper_logo.svg')}}" alt="papergreen">
             </a>
         </div>
         <ul class="sidenav" id="mobile-demo">

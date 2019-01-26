@@ -26,7 +26,7 @@
                             façon de les exercer auprès de GreenPaper. Vous pouvez également définir le sort de vos données
                             après votre décès.<br>
                             Les données personnelles recueillies dans le cadre des services proposés sur <a
-                                href="{{url('/')}}">GreenPaper</a> sont transmises et conservées selon des protocoles
+                                href="{{url('/')}}">Green'Paper</a> sont transmises et conservées selon des protocoles
                             sécurisés ; elles ne sont pas conservées au-delà de la durée nécessaire à la gestion des
                             missions légales de GreenPaper.
                         </p>

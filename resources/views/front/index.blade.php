@@ -350,18 +350,18 @@
         <p>Chef de projet</p>
     </div>
     <div class="row marg-t40">
-        <div class="flex col s12">
-            <div class="col l3 flex flex-c-c flex-a-c">
-                <img class="partner-img-resp" src="{{asset('img/greenpeace.png')}}">
+        <div class="flex col s12 partner-resp-col">
+            <div class="col l3 flex flex-c-c flex-a-c ">
+                <img class="partner-img-resp resp-greenpeace" src="{{asset('img/greenpeace.png')}}">
             </div>
             <div class="col l3 flex flex-c-c flex-a-c">
                 <img class="partner-img-resp" src="{{asset('img/europe-ecologie.png')}}">
             </div>
             <div class="col l3 flex flex-c-c flex-a-c">
-                <img class="partner-img-resp" src="{{asset('img/greenpeace.png')}}">
+                <img  class="partner-img-resp hw-logo-rf" src="{{asset('img/logo-rf.png')}}">
             </div>
             <div class="col l3 flex flex-c-c flex-a-c">
-                <img class="partner-img-resp" src="{{asset('img/europe-ecologie.png')}}">
+                <img class="partner-img-resp" src="{{asset('img/mairie-paris.png')}}">
             </div>
         </div>
     </div>
