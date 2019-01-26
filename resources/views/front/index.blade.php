@@ -358,7 +358,7 @@
                 <img class="partner-img-resp" src="{{asset('img/europe-ecologie.png')}}">
             </div>
             <div class="col l3 flex flex-c-c flex-a-c">
-                <img style="width: 300px; height: 230px"  class="partner-img-resp hw-logo-rf" src="{{asset('img/logo-rf.png')}}">
+                <img class="partner-img-resp hw-logo-rf" src="{{asset('img/logo-rf.png')}}">
             </div>
             <div class="col l3 flex flex-c-c flex-a-c">
                 <img class="partner-img-resp" src="{{asset('img/mairie-paris.png')}}">
