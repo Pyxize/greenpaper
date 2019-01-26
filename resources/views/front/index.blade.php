@@ -312,29 +312,29 @@
         <div class="col l12 marg-t60">
             <div class="col l4 flex flex-a-c flex-c-c">
                 <div class="marg-r40">
-                    <img src="{{asset('img/chiffres.png')}}">
+                    <img src="{{asset('img/img_cl.png')}}">
                 </div>
                 <div class="flex flex-column">
-                    <h3 class="marg-0">2700</h3>
-                    <p>Téléchargement de l’appli</p>
+                    <h3 class="marg-0">500</h3>
+                    <p>Téléchargements le premier mois </p>
                 </div>
             </div>
             <div class="col l4 flex flex-a-c flex-c-c">
                 <div class="marg-r40">
-                    <img src="{{asset('img/chiffres.png')}}">
+                    <img src="{{asset('img/img_cl.png')}}">
                 </div>
                 <div class="flex flex-column">
-                    <h3 class="marg-0">2700</h3>
-                    <p>Téléchargement de l’appli</p>
+                    <h3 class="marg-0">6200</h3>
+                    <p>Téléchargements en 2018</p>
                 </div>
             </div>
             <div class="col l4 flex flex-a-c flex-c-c">
                 <div class="marg-r40">
-                    <img src="{{asset('img/chiffres.png')}}">
+                    <img src="{{asset('img/img_cl.png')}}">
                 </div>
                 <div class="flex flex-column">
-                    <h3 class="marg-0">2700</h3>
-                    <p>Téléchargement de l’appli</p>
+                    <h3 class="marg-0">10%</h3>
+                    <p>De poubelle ajouter dans Paris</p>
                 </div>
             </div>
         </div>
