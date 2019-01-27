@@ -617,6 +617,9 @@ nav li {
 .responsive-bg-ap{
     margin-top: 35%;
 }
+.if-resp{
+
+}
 
 @media screen and (max-width: 960px){
     .bg-about{
