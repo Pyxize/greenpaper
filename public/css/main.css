@@ -640,7 +640,7 @@ nav li {
 .bg-grey{
     background-color: #EEEEEE;
     width: 100%;
-    height: 100vh;
+    height: auto;
 }
 .hw-logo-rf{
     width: 300px;
@@ -659,8 +659,10 @@ nav li {
     .resp-greenpeace{
         display: none;
     }
-    .title{
-
+    @media screen and (max-width: 1080px){
+        .partner-resp-col{
+            flex-direction: column;
+        }
     }
 }
 

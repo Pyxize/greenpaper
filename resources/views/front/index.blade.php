@@ -343,6 +343,7 @@
 
     <!-- PARTENAIRE-->
 <section id="partenaire" class="bg-grey partner-resp  flex flex-column flex-a-c flex-c-c flex-column row">
+    <div class="col l12 m8 s12 flex flex-c-c flex-a-c">
     <div class="flex flex-a-c flex-c-c flex-column col s6">
         <h2 class="center-align">‘Grâce à nos partenaires,
             nous améliorons le monde’</h2>
@@ -350,21 +351,22 @@
         <p>Chef de projet</p>
     </div>
     <div class="row marg-t40">
-        <div class="flex col s12 partner-resp-col">
-            <div class="col l3 flex flex-c-c flex-a-c ">
+        <div class="flex col s12  partner-resp-col">
+            <div class="col l3 m8 flex flex-c-c flex-a-c ">
                 <img class="partner-img-resp resp-greenpeace" src="{{asset('img/greenpeace.png')}}">
             </div>
-            <div class="col l3 flex flex-c-c flex-a-c">
+            <div class="col l3 m8 flex flex-c-c flex-a-c">
                 <img class="partner-img-resp" src="{{asset('img/europe-ecologie.png')}}">
             </div>
-            <div class="col l3 flex flex-c-c flex-a-c">
+            <div class="col l3 m8 flex flex-c-c flex-a-c">
                 <img class="partner-img-resp hw-logo-rf" src="{{asset('img/logo-rf.png')}}">
             </div>
-            <div class="col l3 flex flex-c-c flex-a-c">
+            <div class="col l3 m8 flex flex-c-c flex-a-c">
                 <img class="partner-img-resp" src="{{asset('img/mairie-paris.png')}}">
             </div>
         </div>
     </div>
+        <div>
 </section>
 
     <!-- CONTACT -->
