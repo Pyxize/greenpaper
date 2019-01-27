@@ -24,8 +24,8 @@
                 </div>
                 </form>
             </div>
-            <div class="col s6 responsive-none">
-                <svg id="Right-top-header" xmlns="http://www.w3.org/2000/svg" width="688.793" height="833.567"
+            <div class="col l6 responsive-none">
+                <svg class="col m12" id="Right-top-header" xmlns="http://www.w3.org/2000/svg" width="688.793" height="833.567"
                      viewBox="0 0 688.793 833.567">
                     <defs>
                         <style>

@@ -620,6 +620,14 @@ nav li {
 .if-resp{
 
 }
+.svg-container {
+    display: inline-block;
+    position: relative;
+    width: 100%;
+    padding-bottom: 100%;
+    vertical-align: middle;
+    overflow: hidden;
+}
 
 @media screen and (max-width: 960px){
     .bg-about{
