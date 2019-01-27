@@ -273,7 +273,7 @@
     </div>
     </div>
     <!-- A PROPOS -->
-    <div id="apropos" class="marg-t35">
+    <div id="apropos" class="responsive-bg-ap">
     <div class="bg-about zindex-100 ">
         <div class="section-a">
             <h1 class="flex flex-c-c t-white marg-b100">A Propos</h1>
